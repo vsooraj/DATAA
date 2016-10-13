@@ -1,0 +1,42 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+.navbar-login
+{
+    width: 305px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.navbar-login-session
+{
+    padding: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.icon-size
+{
+    font-size: 87px;
+}
+.alert-purple { border-color: #694D9F;background: #694D9F;color: #fff; }
+.alert-info-alt { border-color: #8A0CCF;background: #8A0CCF;color: #fff; }
+.alert-danger-alt { border-color: #FCD202;background: #FCD202;color: #fff; }
+.alert-warning-alt { border-color: #CD0D74;background: #CD0D74;color: #fff; }
+.alert-success-alt { border-color: #2A0CD0;background: #2A0CD0;color: #fff; }
+.glyphicon { margin-right:10px; }
+.alert a {color: gold;}
